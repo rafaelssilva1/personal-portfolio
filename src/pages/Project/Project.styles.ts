@@ -26,6 +26,7 @@ export const Overlay = styled.div`
 
 export const InnerContainer = styled.div`
     display: flex;
+    flex-wrap: wrap;
     gap: var(--spacing-16);
 `;
 
